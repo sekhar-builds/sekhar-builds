@@ -26,7 +26,7 @@ Live demo projects are being added here. Each one comes with a working link, scr
 
 ### Tools I work with
 
-`HTML` · `CSS` · `JavaScript` · `Astro` · `Tailwind CSS` · `Git & GitHub` · `Netlify / Vercel / GitHub Pages`
+`Python` · `Django` · `HTML` · `CSS` · `JavaScript` · `Postgresql` · `Tailwind CSS` · `Git & GitHub` · `Netlify / Vercel / GitHub Pages`
 
 ### How I work
 
