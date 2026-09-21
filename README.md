@@ -26,7 +26,7 @@ Live demo projects are being added here. Each one comes with a working link, scr
 
 ### Tools I work with
 
-`Python` · `Django` · `HTML` · `CSS` · `JavaScript` · `PostgreSQL` · `Tailwind CSS` · `Git & GitHub` ·
+`Python` · `Django` · `HTML` · `CSS` · `JavaScript` · `PostgreSQL` · `Tailwind CSS` · `Git & GitHub`
 
 ### How I work
 
