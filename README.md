@@ -21,10 +21,10 @@ Live demo projects are being added here. Each one comes with a working link, scr
 | Project | What it shows | Links |
 |---|---|---|
 | **Mock test platform** | Timed MCQ tests, auto-scoring with negative marking, answer explanations, student dashboard and an admin panel for the institute. Django + PostgreSQL. | [Live demo](https://mock-test-platform-urbl.onrender.com) · [Code](https://github.com/sekhar-builds/mock-test-platform) |
-| Coaching institute website | Responsive site with courses, results and enquiry form | 🚧 In progress |
+| **Coaching institute website** | Three-page site for a coaching institute: courses with fees, results, faculty, FAQs, WhatsApp button and a validated enquiry form. Fast, mobile-first, SEO-ready. | [Live site](https://sekhar-builds.github.io/coaching-institute-website/) · [Code](https://github.com/sekhar-builds/coaching-institute-website) |
 | Study notes portal | Topic-wise notes with search and clean reading layout | 🚧 In progress |
 
-> The live demo is on a free server, so the first visit can take up to a minute to wake up. Log in as `demo` / `demo12345`.
+> The mock test platform runs on a free server, so its first visit can take up to a minute to wake up. Log in as `demo` / `demo12345`.
 
 ### Tools I work with
 
